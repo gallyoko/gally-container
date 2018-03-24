@@ -1,5 +1,5 @@
-login_ssh=docker
-password_ssh=docker
+login_ssh=gallyoko
+password_ssh=gallyoko
 
 service ssh start
 
